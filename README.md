@@ -1,2 +1,2 @@
-# LLET
-Low-light Image Enhancement Transformer
+# LIET
+An efficient Low-light Image Enhanced Transformer network.
