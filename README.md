@@ -11,19 +11,19 @@ Low-light image enhancement is a long-standing low-level vision problem because 
 <img width="762" alt="image" src="https://github.com/Jensen-JZ/LIET/assets/36783874/f6d2a75b-199a-4fe9-b30c-2f4750b83c77">
 
 ## Results
-**Fig 1** Visual comparison with state-of-the-art low-light image enhancement methods in outdoor scenes with large light ratios. Bet- ter with enlarged views to observe the results (same for the following figures).
+**Fig 1** Visual comparison with SOTA low-light image enhancement methods in outdoor scenes with large light ratios. Better with enlarged views to observe the results (same for the following figures).
 
 <img width="393" alt="image" src="https://github.com/Jensen-JZ/LIET/assets/36783874/b34d1902-81fa-46ea-883c-9a12be3fe563">
 
 ---
 
-**Fig 2** Visual comparison with state-of-the-art low-light image enhancement methods in dark indoor scenes.
+**Fig 2** Visual comparison with SOTA low-light image enhancement methods in dark indoor scenes.
 
 <img width="392" alt="image" src="https://github.com/Jensen-JZ/LIET/assets/36783874/846b62bb-5388-494a-9654-666f9c3f1572">
 
 ---
 
-**Fig 3** Visual comparison of noise suppression effects with state- of-the-art low-light image enhancement methods in night scenes with complex lighting.
+**Fig 3** Visual comparison of noise suppression effects with SOTA low-light image enhancement methods in night scenes with complex lighting.
 
 <img width="393" alt="image" src="https://github.com/Jensen-JZ/LIET/assets/36783874/7ab3fe62-144f-4f40-bfec-a07fd796495f">
 
